@@ -14,33 +14,66 @@ You can view or download my resume here:
 
 ---
 
-## 🎯 Career Objective
-Enthusiastic and technically proficient final-year CSE student with hands-on experience in machine learning (Python), web development (MERN stack), and image processing. Seeking an entry-level position to apply my skills and contribute to a forward-thinking team.
+## 🎯 Career Objective  
+Motivated and detail-oriented final-year Computer Science and Engineering student with strong foundations in web development (MERN stack), machine learning, and image processing. Passionate about building scalable, user-centric applications and applying innovative problem-solving skills to contribute effectively to a dynamic technology team.  
 
 ---
 
-## 🛠️ Technical Skills
-- **Languages:** C++, C, Java, Python  
-- **Web / Databases:** HTML, CSS, SQL, MongoDB, Node.js, Express.js  
-- **UI / Design:** Interaction Design, Adobe, Figma  
-- **Soft Skills:** Teamwork, Communication
+## 🎓 Education  
+- **B.Tech in Computer Science and Engineering**  
+  Prasad V Potluri Siddhartha Institute of Technology, Vijayawada  
+  *2022 – 2026 (Pursuing)* | **CGPA: 8.02**  
+
+- **Intermediate (MPC)**  
+  Narayana Jr College, Vijayawada  
+  *2020 – 2022* | **Percentage: 91.7**  
+
+- **SSC**  
+  Krishna Chaitanya School, Vijayawada  
+  *2019 – 2020* | **Percentage: 96.5**  
 
 ---
 
-## 🔗 Projects (selected)
-- **Online Examination System** — Full-stack exam platform (React, Node.js, MongoDB).  
-- **Crazy Math Game** — Interactive JS game using OOP.  
-- **Sign Language Recognition** — CNN with TensorFlow/Keras (Sign Language MNIST).  
-- **Travel Blog Website** — Responsive blog site (HTML/CSS/JS).  
-- **Hepatitis C Prediction** — EDA and classification models (Python, Pandas).
-
-(See full project list on my GitHub profile.)
+## 🛠️ Technical Skills  
+- **Programming Languages:** C++, C, Java, Python  
+- **Web Development:** HTML, CSS, SQL, MongoDB, Node.js, Express.js  
+- **UI Designing:** Interaction Design, Adobe, Figma  
+- **Soft Skills:** Teamwork, Communication  
 
 ---
 
-## 🏆 Certifications & Profiles
-- NPTEL: Programming in Java, DBMS  
-- Cisco: CCNA, Python Essentials  
-- Infosys: Data Structures in Java, Intro to AI  
-- **CodeChef:** roopasri0812 — Rating 1041  
-- **LeetCode:** BATTU_NAGAROOPASRI — Rating 1260
+## 💻 Projects  
+
+### 🔹 Online Examination System ([GitHub](https://github.com/BattuNagaRoopasri/online-examination-system))  
+- Designed a full-stack exam platform with React, Node.js, and MongoDB.  
+- Implemented secure login, real-time proctoring, and automated submissions.  
+- Built RESTful APIs with timer, auto-submit, and evaluation modules.  
+
+### 🔹 Sign Language Recognition ([GitHub](https://github.com/BattuNagaRoopasri/sign-language-recognition))  
+- Built a CNN model with TensorFlow/Keras to classify ASL gestures.  
+- Trained on Sign Language MNIST dataset, achieving **89.75% test accuracy**.  
+- Applied image preprocessing and data augmentation for higher accuracy.
+
+### 🔹 Hepatitis C Prediction ([GitHub](https://github.com/BattuNagaRoopasri/Hepatitis_C_Prediction))  
+- Performed exploratory data analysis on a liver patient dataset.  
+- Analyzed medical attributes (ALP, ALT, AST) across disease stages.  
+- Built classification models after feature selection with Python and Pandas.  
+
+### 🔹 Travel Blog Website ([GitHub](https://github.com/BattuNagaRoopasri/Travel-Blog))  
+- Developed a responsive blog website using HTML, CSS, and JavaScript.  
+- Designed sections for destinations, travel tips, and image carousels.  
+- Optimized for mobile and tablet devices using media queries.
+
+### 🔹 Crazy Math Game ([GitHub](https://github.com/BattuNagaRoopasri/Crazy-Math-Game))  
+- Developed an interactive web application using JavaScript, CSS, and HTML.  
+- Implemented OOP for efficient state management and responsive design.  
+- Enhanced user experience with optimized responsiveness across devices.  
+
+
+---
+
+## 📜 Certifications  
+- **NPTEL:** Programming in Java, DBMS, Soft Skills  
+- **Cisco:** Introduction to Cybersecurity, Python Essentials 1, CCNA  
+- **Infosys:** Data Structures in Java, Introduction to AI, Blockchain Essentials  
+- **AICTE:** Android Development, Cybersecurity  
