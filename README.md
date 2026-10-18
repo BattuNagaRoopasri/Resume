@@ -10,7 +10,7 @@ Vijayawada, Andhra Pradesh
 ## 📄 Resume (PDF)
 
 You can view or download my resume here:  
-👉 [RESUME.pdf](RESUME.pdf)
+👉 [RESUME.pdf](Roopasri_Resume(1) (1).pdf)
 
 ---
 
