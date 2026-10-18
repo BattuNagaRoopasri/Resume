@@ -3,7 +3,7 @@
 Vijayawada, Andhra Pradesh  
 📧 roopasri.0812@gmail.com · 📱 +91 93902 21446
 
-[LinkedIn](https://www.linkedin.com/in/naga-roopasri-battu-b88b95282/) · [GitHub](https://github.com/BattuNagaRoopasri)
+[LinkedIn](https://www.linkedin.com/in/nagaroopasribattu/) · [GitHub](https://github.com/BattuNagaRoopasri)
 
 ---
 
@@ -22,7 +22,7 @@ Motivated and detail-oriented final-year Computer Science and Engineering studen
 ## 🎓 Education  
 - **B.Tech in Computer Science and Engineering**  
   Prasad V Potluri Siddhartha Institute of Technology, Vijayawada  
-  *2022 – 2026 (Pursuing)* | **CGPA: 8.02**  
+  *2022 – 2026* | **CGPA: 8.11**  
 
 - **Intermediate (MPC)**  
   Narayana Jr College, Vijayawada  
@@ -36,28 +36,23 @@ Motivated and detail-oriented final-year Computer Science and Engineering studen
 
 ## 🛠️ Technical Skills  
 - **Programming Languages:** C++, C, Java, Python  
-- **Web Development:** HTML, CSS, SQL, MongoDB, Node.js, Express.js  
-- **UI Designing:** Interaction Design, Adobe, Figma  
+- **Web Development:** HTML, CSS, SQL, MongoDB, Node.js, React.js, Express.js
+- **Core Computer Science:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- **Development Tools:** Git, GitHub, VS Code, Vercel, Render
 - **Soft Skills:** Teamwork, Communication  
 
 ---
 
 ## 💻 Projects  
+### 🔹NutriWise ([GitHub](https://nutriwise-smoky.vercel.app/))
+- Developed and deployed a full-stack web application using React.js, and MongoDB for personalized diet recommendations.
+- Designed and executed RESTful APIs for data processing and communication between frontend and backend services.
+- Integrated MongoDB for persistent data storage and enforced database operations for application data retrieval.
 
 ### 🔹 Online Examination System ([GitHub](https://github.com/BattuNagaRoopasri/online-examination-system))  
 - Designed a full-stack exam platform with React, Node.js, and MongoDB.  
 - Implemented secure login, real-time proctoring, and automated submissions.  
 - Built RESTful APIs with timer, auto-submit, and evaluation modules.  
-
-### 🔹 Sign Language Recognition ([GitHub](https://github.com/BattuNagaRoopasri/sign-language-recognition))  
-- Built a CNN model with TensorFlow/Keras to classify ASL gestures.  
-- Trained on Sign Language MNIST dataset, achieving **89.75% test accuracy**.  
-- Applied image preprocessing and data augmentation for higher accuracy.
-
-### 🔹 Hepatitis C Prediction ([GitHub](https://github.com/BattuNagaRoopasri/Hepatitis_C_Prediction))  
-- Performed exploratory data analysis on a liver patient dataset.  
-- Analyzed medical attributes (ALP, ALT, AST) across disease stages.  
-- Built classification models after feature selection with Python and Pandas.  
 
 ### 🔹 Travel Blog Website ([GitHub](https://github.com/BattuNagaRoopasri/Travel-Blog))  
 - Developed a responsive blog website using HTML, CSS, and JavaScript.  
@@ -73,7 +68,7 @@ Motivated and detail-oriented final-year Computer Science and Engineering studen
 ---
 
 ## 📜 Certifications  
-- **NPTEL:** Programming in Java, DBMS, Soft Skills  
-- **Cisco:** Introduction to Cybersecurity, Python Essentials 1, CCNA  
-- **Infosys:** Data Structures in Java, Introduction to AI, Blockchain Essentials  
-- **AICTE:** Android Development, Cybersecurity  
+- **NPTEL:** Programming in Java, DataBase Management System, Soft Skills  
+- **Infosys:** Data Structures in Java, Python Fundamentals
+- **AICTE:** Java Fullstack Developer
+- **AWS:** AWS Cloud Practitioner Essentials
